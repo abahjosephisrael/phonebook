@@ -277,7 +277,7 @@ class UI{
                 <h3>${contact.fullName.charAt(0)}</h3>
             </div>
             <div class="nameHolder">
-                <h6 id="name">${contact.fullName}</h6>
+                <b id="name">${contact.fullName}</b>
             </div> 
             <div id="personDetails">
                 <div id="allDetails" class="show">
